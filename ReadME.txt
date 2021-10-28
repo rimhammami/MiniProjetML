@@ -4,4 +4,3 @@ in this mini-project, i made two ML APIs.
 *****
 The notebook contains both modules
 ******
-make sure before you run either API in the cmd prompt to activate the enviroment by typing in the following commend: env\Scripts\activiate
